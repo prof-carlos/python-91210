@@ -12,3 +12,5 @@ elif idade < 65:
     print("Voto obrigatório.")
 else: 
     print("Não obrigatório.")
+
+print("=== FIM ===")
