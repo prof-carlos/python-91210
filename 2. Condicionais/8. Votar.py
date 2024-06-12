@@ -1,7 +1,7 @@
 import os
 os.system("cls || clear")
 
-print("Solicitando dados para o usuário.")
+print("=== Solicitando dados para o usuário ===")
 idade = int(input("Digite sua idade: "))
 
 if idade < 16:
